@@ -1,0 +1,31 @@
+[
+    {
+        "NavLink":"home",
+        "Link":"/"
+    },
+    
+    {
+        "NavLink":"about",
+        "Link":"/about"
+    },
+    
+    {
+        "NavLink":"resume",
+        "Link":"/Resume"
+    },
+    
+    {
+        "NavLink":"services",
+        "Link":"/Service"
+    },
+    
+    {
+        "NavLink":"portfolio",
+        "Link":"/Portfolio"
+    },
+    
+    {
+        "NavLink":"contact",
+        "Link":"/Contact"
+    }
+]
